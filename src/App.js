@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { Engine, Model, Scene } from 'react-babylonjs'
+import { Vector3 } from '@babylonjs/core';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="item" >
+      <Engine>
+        <Scene antialias={true} adaptToDeviceRatio={true} canvasId="sample-canvas">
+          <arcRotateCamera name="camera1"
+            alpha={Math.PI / -2} beta={Math.PI / 2}
+            radius={0.05} target={Vector3.Zero()} minZ={0.001} />
+          <hemisphericLight name="light1" intensity={0.7}
+            direction={Vector3.Up()} />
+          <Model sceneFilename="Diving_watch.obj"
+            rootUrl="https://filebin.net/rr37flilx2agnhwd/"
+            position={new Vector3(0, 0, 0)}
+          />
+        </Scene>
+      </Engine>
     </div>
   );
 }
