@@ -1,0 +1,700 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 53174,
+      "max": [
+        33.113628387451172,
+        66.753288269042969,
+        49.099853515625
+      ],
+      "min": [
+        -26.214746475219727,
+        -13.612205505371094,
+        -49.721916198730469
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 638088,
+      "componentType": 5126,
+      "count": 53174,
+      "max": [
+        0.99987423419952393,
+        0.99979650974273682,
+        1
+      ],
+      "min": [
+        -0.99999618530273438,
+        -0.99996155500411987,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 53174,
+      "max": [
+        0.99999475479125977,
+        0.99997538328170776,
+        1,
+        1
+      ],
+      "min": [
+        -0.99994736909866333,
+        -0.99997371435165405,
+        -0.99597424268722534,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 53174,
+      "max": [
+        0.99897414445877075,
+        0.99900001287460327
+      ],
+      "min": [
+        0.0010000000474974513,
+        0.0010000000474974513
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 237120,
+      "max": [
+        53173
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1276176,
+      "componentType": 5126,
+      "count": 163,
+      "max": [
+        22.972658157348633,
+        7.5345749855041504,
+        24.176691055297852
+      ],
+      "min": [
+        -22.972652435302734,
+        -7.5345535278320312,
+        -24.176692962646484
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1278132,
+      "componentType": 5126,
+      "count": 163,
+      "max": [
+        0.95019811391830444,
+        0.31164667010307312,
+        1
+      ],
+      "min": [
+        -0.99834954738616943,
+        -0.95024996995925903,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 850784,
+      "componentType": 5126,
+      "count": 163,
+      "max": [
+        0.99303632974624634,
+        0.6742979884147644,
+        0.16056610643863678,
+        1
+      ],
+      "min": [
+        -0.31217306852340698,
+        -0.99833822250366211,
+        -0.22700971364974976,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 425392,
+      "componentType": 5126,
+      "count": 163,
+      "max": [
+        0.95766967535018921,
+        0.96383726596832275
+      ],
+      "min": [
+        0.029928168281912804,
+        0.036039821803569794
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 948480,
+      "componentType": 5125,
+      "count": 498,
+      "max": [
+        162
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1280088,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        16.508199691772461,
+        -3.0881490707397461,
+        2.2679193019866943
+      ],
+      "min": [
+        11.400513648986816,
+        -4.76336669921875,
+        -1.8838552236557007
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1280376,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        -0.31156760454177856,
+        -0.95019352436065674,
+        0
+      ],
+      "min": [
+        -0.31166079640388489,
+        -0.95022398233413696,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 853392,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        0.95022404193878174,
+        -0.31156757473945618,
+        4.4853976532976958e-07,
+        1
+      ],
+      "min": [
+        0.95019340515136719,
+        -0.31166082620620728,
+        -0.00018797701341100037,
+        1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 426696,
+      "componentType": 5126,
+      "count": 24,
+      "max": [
+        1,
+        0.89370083808898926
+      ],
+      "min": [
+        0,
+        0.10629919171333313
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 950472,
+      "componentType": 5125,
+      "count": 66,
+      "max": [
+        23
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "ar-watches (https://sketchfab.com/ar-watches)",
+      "license": "SKETCHFAB Editorial (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/tissot-2ed63534a1684028ac20d8729639ed14",
+      "title": "Tissot"
+    },
+    "generator": "Sketchfab-8.74.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 950736,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 426888,
+      "byteOffset": 950736,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1280664,
+      "byteOffset": 1377624,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 853776,
+      "byteOffset": 2658288,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3512064,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/METAL_baseColor.png"
+    },
+    {
+      "uri": "textures/METAL_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/METAL_normal.png"
+    },
+    {
+      "uri": "textures/Watch_baseColor.png"
+    },
+    {
+      "uri": "textures/Watch_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Watch_normal.png"
+    },
+    {
+      "uri": "textures/kalendar_baseColor.png"
+    },
+    {
+      "uri": "textures/kalendar_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/kalendar_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "METAL",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Watch",
+      "normalTexture": {
+        "index": 5,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 4,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 3,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 4,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "kalendar",
+      "normalTexture": {
+        "index": 8,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 7,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 6,
+          "texCoord": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 7,
+          "texCoord": 0
+        },
+        "roughnessFactor": 1
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Tissot_METAL_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object001_Watch_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object002_kalendar_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Tissot.FBX"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5,
+        7,
+        9
+      ],
+      "matrix": [
+        0.037438087556929713,
+        -1.0927391933949345e-18,
+        -0.012181653768575173,
+        0,
+        -0.012181653768575173,
+        0,
+        -0.037438087556929713,
+        0,
+        -1.0927391933949345e-18,
+        0.039370078593492508,
+        0,
+        0,
+        -0.036298777908086777,
+        3.0456656849509778e-35,
+        0.011721924878656864,
+        1
+      ],
+      "name": "Tissot"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        1,
+        5.5511151231257839e-17,
+        0,
+        0,
+        -5.5511151231257839e-17,
+        1,
+        1.2325951644078312e-32,
+        0,
+        6.8422768421729654e-49,
+        -1.2325950174710374e-32,
+        0.99999988079071045,
+        0,
+        -8.1855144500732422,
+        -28.184995651245117,
+        49.748046875,
+        1
+      ],
+      "name": "Tissot"
+    },
+    {
+      "mesh": 0,
+      "name": "Tissot_METAL_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        1,
+        5.5511151231257839e-17,
+        0,
+        0,
+        -5.5511151231257839e-17,
+        1,
+        1.2325951644078312e-32,
+        0,
+        6.8422768421729654e-49,
+        -1.2325950174710374e-32,
+        0.99999988079071045,
+        0,
+        -9.5936174392700195,
+        -32.479194641113281,
+        49.748035430908203,
+        1
+      ],
+      "name": "Object001"
+    },
+    {
+      "mesh": 1,
+      "name": "Object001_Watch_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1,
+        5.5511151231257839e-17,
+        0,
+        0,
+        -5.5511151231257839e-17,
+        1,
+        1.2325951644078312e-32,
+        0,
+        6.8422768421729654e-49,
+        -1.2325950174710374e-32,
+        0.99999988079071045,
+        0,
+        -9.5936174392700195,
+        -32.479194641113281,
+        49.748035430908203,
+        1
+      ],
+      "name": "Object002"
+    },
+    {
+      "mesh": 2,
+      "name": "Object002_kalendar_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    },
+    {
+      "sampler": 0,
+      "source": 6
+    },
+    {
+      "sampler": 0,
+      "source": 7
+    },
+    {
+      "sampler": 0,
+      "source": 8
+    }
+  ]
+}
+
