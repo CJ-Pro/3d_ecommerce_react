@@ -28,7 +28,7 @@ export default function Product3DViewer() {
         />
         <Model
           sceneFilename="scene.gltf"
-          rootUrl="https://raw.githubusercontent.com/CJ-Pro/3d_ecommerce_react/main/public/assets/casio/"
+          rootUrl="https://raw.githubusercontent.com/CJ-Pro/3d_ecommerce_react/main/public/assets/earring/"
           position={new Vector3(0, 0, 0)}
         />
       </Scene>
