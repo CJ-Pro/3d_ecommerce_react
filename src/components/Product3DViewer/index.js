@@ -27,8 +27,8 @@ export default function Product3DViewer() {
           direction={Vector3.Up()}
         />
         <Model
-          sceneFilename="scene.gltf"
-          rootUrl="https://github.com/CJ-Pro/3d_ecommerce_react/blob/main/src/assets/earring/"
+          sceneFilename="model.obj"
+          rootUrl="https://raw.githubusercontent.com/CJ-Pro/3d_ecommerce_react/main/public/assets/bracelet/"
           position={new Vector3(0, 0, 0)}
         />
       </Scene>
