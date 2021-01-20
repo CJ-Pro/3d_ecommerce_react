@@ -177,7 +177,7 @@ export default function MenuBar() {
             <MenuIcon />
           </IconButton>
           <Typography className={classes.title} variant="h6" noWrap>
-            Material-UI
+            3D ECOMMERCE SITE
           </Typography>
           <div className={classes.search}>
             <div className={classes.searchIcon}>
