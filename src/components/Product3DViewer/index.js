@@ -13,13 +13,13 @@ export default function Product3DViewer() {
       >
         <arcRotateCamera
           name="camera"
-          alpha={Math.PI / 2}
+          alpha={Math.PI}
           beta={0}
-          radius={1.5 * Math.PI}
-          target={Vector3.Zero()}
+          radius={2 * Math.PI}
+          target={new Vector3(0, 0.5, 0)}
           minZ={0.005}
-          upperRadiusLimit={1.5 * Math.PI}
-          lowerRadiusLimit={1.5 * Math.PI}
+          //upperRadiusLimit={225}
+          //lowerRadiusLimit={225}
         />
         <hemisphericLight
           name="light"
@@ -27,9 +27,9 @@ export default function Product3DViewer() {
           direction={Vector3.Up()}
         />
         <Model
-          sceneFilename="scene.gltf"
-          rootUrl="https://raw.githubusercontent.com/CJ-Pro/3d_ecommerce_react/main/public/assets/casio/"
-          position={new Vector3(0, 0, 0)}
+          sceneFilename="model.gltf"
+          rootUrl="https://raw.githubusercontent.com/CJ-Pro/3d_ecommerce_react/main/public/assets/wedding_ring/"
+          position={Vector3.Zero()}
         />
       </Scene>
     </Engine>
