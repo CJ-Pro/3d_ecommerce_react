@@ -2,7 +2,7 @@ import React from "react";
 import { Engine, Model, Scene } from "react-babylonjs";
 import { Vector3, Color3 } from "@babylonjs/core";
 
-export default function Product3DViewer() {
+export default function Product3DViewer(props) {
   return (
     <Engine>
       <Scene
@@ -13,13 +13,13 @@ export default function Product3DViewer() {
       >
         <arcRotateCamera
           name="camera"
-          alpha={Math.PI}
-          beta={0}
-          radius={2 * Math.PI}
-          target={new Vector3(0, 0.5, 0)}
+          alpha={props.alpha}
+          beta={props.beta}
+          radius={props.radius}
+          target={props.target}
           minZ={0.005}
-          //upperRadiusLimit={225}
-          //lowerRadiusLimit={225}
+          upperRadiusLimit={props.radius}
+          lowerRadiusLimit={props.radius}
         />
         <hemisphericLight
           name="light"
@@ -28,7 +28,7 @@ export default function Product3DViewer() {
         />
         <Model
           sceneFilename="model.gltf"
-          rootUrl="https://raw.githubusercontent.com/CJ-Pro/3d_ecommerce_react/main/public/assets/wedding_ring/"
+          rootUrl={props.url}
           position={Vector3.Zero()}
         />
       </Scene>
